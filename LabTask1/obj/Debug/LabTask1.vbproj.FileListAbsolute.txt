@@ -1,0 +1,13 @@
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LabTask1\LabTask1\bin\Debug\LabTask1.exe.config
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LabTask1\LabTask1\bin\Debug\LabTask1.exe
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LabTask1\LabTask1\bin\Debug\LabTask1.pdb
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LabTask1\LabTask1\bin\Debug\LabTask1.xml
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LabTask1\LabTask1\obj\Debug\LabTask1.vbprojResolveAssemblyReference.cache
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LabTask1\LabTask1\obj\Debug\LabTask1.Form1.resources
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LabTask1\LabTask1\obj\Debug\LabTask1.Resources.resources
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LabTask1\LabTask1\obj\Debug\LabTask1.vbproj.GenerateResource.Cache
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LabTask1\LabTask1\obj\Debug\LabTask1.exe
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LabTask1\LabTask1\obj\Debug\LabTask1.xml
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LabTask1\LabTask1\obj\Debug\LabTask1.pdb
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LabTask1\LabTask1\obj\Debug\LabTask1.ssForm.resources
+c:\users\user\onedrive\documents\visual studio 2015\Projects\LabTask1\LabTask1\obj\Debug\LabTask1.AboutFrm.resources
